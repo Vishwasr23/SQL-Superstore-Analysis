@@ -128,6 +128,6 @@ Data Analyst | SQL | Power BI | Excel
 
 📧 rvishwas960@gmail.com
 
-💼 LinkedIn
+💼 https://www.linkedin.com/in/vishwas-ramesh/
 
-🐙 GitHub
+🐙 https://github.com/Vishwasr23
